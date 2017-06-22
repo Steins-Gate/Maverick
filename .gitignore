@@ -2,6 +2,7 @@
 node_modules
 .idea
 unmusic
+ureadme.md
 /resource/test
 /resource/api
 /resource/demo
@@ -10,6 +11,8 @@ unmusic
 /be/config/prod.js
 /fe/src/config/prod.js
 /bin/scp.dev.sh
+dist
+dest
 webpack-assets.json
 
 

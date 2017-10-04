@@ -1,21 +1,16 @@
-## We Are Maverick
-![ ](./img/2.jpeg) ![ ](./img/1.jpg)
-
-
-## Seed xxxx generation template build
-     something more than Gitbook
-## try to understand 
+## We are MaveRick 救済なんていらない
+![ ](./img/1.jpg)![ ](./img/2.jpeg) 
+## cli generation template build Seed project
+        1. Book & manual(Git book) 
+        2. Write API Documention
+        3. keep learing(galaxy memory)
+        4. analyze source code 
+                 single && collection
+        5. project build
+## introduce
        Template Common
+          Take one piece when u need it (This is common part )
        Dev app
-       Deb Framwork
-    
-## build
-        Book & manual   
-        API Documention
-        Knowledge base
-        Git book
-## creat
-        app
-## todo
-    cmd build
-
+       Deb Framwork  
+## todo list
+    to be continue...

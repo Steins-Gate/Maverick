@@ -1,5 +1,6 @@
 # github ignore
 node_modules
+*/**/node_modules
 .idea
 unmusic
 ureadme.md

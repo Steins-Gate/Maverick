@@ -1,0 +1,28 @@
+{
+  /**
+  * Application configuration section
+  * http://pm2.keymetrics.io/docs/usage/application-declaration/
+  */
+  "apps": [
+    // First application
+    {
+      "name": "ES6App",
+      "cwd": "./",
+      "max_memory_restart": "990M",
+      "script": "./ES6App/app.js",
+    //  out_file: "./log/logs/pm2/pm2_out.log",
+      "error_file": "./log/public/logs/pm2/pm2_error.log",
+      "instances": 2,
+      "exec_mode": "cluster",
+      "watch": false,
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "ignore_watch" : [
+        "node_modules",
+        "logs",
+        "public"
+      ]
+    }
+  ]
+}

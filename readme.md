@@ -1,18 +1,15 @@
 ## We are MaveRick 救済なんていらない
 ![ ](./img/1.jpg)![ ](./img/2.jpeg) 
-## cli generation template build Seed project
+## It already follows our best practices!
+       Maverick CLI makes it easy to create an application that already works
+       to quickly create an application skeleton.
+           Template Common
+              Take one piece when you need it
+              
+## The Maverick CLI 
         1. Book & manual(Git book) 
         2. Write API Documention
         3. keep learing(galaxy memory)
         4. analyze source code 
                  single && collection
         5. project build
-## introduce
-       Template Common
-          Take one piece when u need it (This is common part )
-       Dev app
-       Deb Framwork
-## updata log
-    add dev log       
-## todo list
-    to be continue...

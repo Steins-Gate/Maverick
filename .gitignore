@@ -1,6 +1,11 @@
 # github ignore
 node_modules
 */**/node_modules
+*/**/.idea
+*/**/dest
+*/**/dist
+dist
+dest
 .idea
 unmusic
 ureadme.md
@@ -12,8 +17,6 @@ ureadme.md
 /be/config/prod.js
 /fe/src/config/prod.js
 /bin/scp.dev.sh
-dist
-dest
 webpack-assets.json
 
 
